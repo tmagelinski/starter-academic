@@ -68,6 +68,6 @@ email: "tmagelin@andrew.cmu.edu"
 highlight_name: false
 ---
 
-I am a PhD Student in Societal Computing in SCS at CMU. I'm a Knight Fellow in the IDeaS lab and a member of the CASOS lab. I am broadly interested in the dynamics of social networks. On the theory side, I am interested in Dynamic Community Detection and Machine Learning on Networks. On the application side I am studying coordinated information operations on social media.
+I am a PhD Student in Societal Computing in SCS at CMU. I'm a Knight Fellow in the IDeaS lab and a member of the CASOS lab. I am broadly interested in the dynamics of social networks. I'm currently working on developing methods from Network Science and ML to find coordinated activity on Twitter.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/magelinski_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
