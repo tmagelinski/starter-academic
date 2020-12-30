@@ -31,7 +31,7 @@ summary: "The deep learning approach to graph classification is to embed nodes i
 tags:
 - Machine Learning on Networks
 - Social Cybersecurity
-featured: false
+featured: true
 
 # links:
 # - name: ""
