@@ -26,23 +26,26 @@ publishDate: "2020-12-30T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Applied Network Science*
-publication_short: In *ANS*
+publication: "In *Applied Network Science*"
+publication_short: ""
 
 abstract: Community detection has proved to be extremely successful in a variety of domains. However, most of the algorithms used in practice assume networks are unchanging in time. This assumption is violated for many datasets, resulting in incorrect or misleading communities. Many different algorithms to rectify this problem have been proposed. Most of them, however, focus on community evolution rather than abrupt changes. The problem of change detection is easier than that of community evolution, and is often sufficient. Here, we propose an algorithm for determining community-based change points from network snapshots. Networks can then be aggregated between change points, and analyzed without violating assumptions. There are three network types that we have defined our algorithm for, each having a case study: static nodesets, semi-static nodesets, and dynamic nodesets. The case studies for these network types are: the Ukrainian Legislature, the Enron email network, and Twitter data from Ukraine. We empirically verify our algorithm in each case study, and compare results to two popular alternatives: Generalized Louvain and GraphScope. We show the impracticality of Generalized Louvain and that our method is less sensitive than GraphScope. Lastly, we use our first two case studies to determine optimal parameters for an anomaly-detection-based streaming method. We then demonstrate that the streaming method was capable of determining events both from data collection errors and from internal network disruptions.
 
 # Summary. An optional shortened abstract.
 summary: We develop a procedure for finding time-segments of community stability in dynamic networks. This also functions as a community-based event detector. Applying this to the legislative voting network in Ukraine's 8th convocation, we identify the Euromaidan Revolution as a major event, and show that the network structure is vastly different before and after.
 
-tags: [community detection, network dynamics, voting networks]
+tags:
+- Community Detection
+- Network Dynamics
+- Voting Networks]
 
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Full Paper
-#   url: https://link.springer.com/article/10.1007/s41109-019-0136-1
+links:
+- name: Full Paper
+- url: https://link.springer.com/article/10.1007/s41109-019-0136-1
 
 url_pdf: ''
 url_code: ''
@@ -72,6 +75,6 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ''
+slides: ""
 ---
 
