@@ -18,9 +18,9 @@ bio: My research interests include the dynamics of social networks, community de
 
 # Interests to show in About widget
 interests:
-- Network Dynamics
-- Community Detection
-- ML on Networks
+- Dynamic Community Detection
+- Heterogeneous Networks
+- Heterogeneous Graph Embedding
 - Detection of Coordination on Social Media
 
 # Education to show in About widget
@@ -70,4 +70,4 @@ highlight_name: false
 
 I am a PhD Student in Societal Computing in SCS at CMU. I'm a Knight Fellow in the IDeaS lab and a member of the CASOS lab. I am broadly interested in the dynamics of social networks. On the theory side, I am interested in Dynamic Community Detection and Machine Learning on Networks. On the application side I am studying coordinated information operations on social media.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/magelinski_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
