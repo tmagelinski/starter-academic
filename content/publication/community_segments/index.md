@@ -37,7 +37,7 @@ summary: "We develop a procedure for finding time-segments of community stabilit
 tags:
 - Community Detection
 - Network Dynamics
-- Voting Networks]
+- Voting Networks
 
 # Display this page in the Featured widget?
 featured: true
