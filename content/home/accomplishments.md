@@ -27,14 +27,14 @@ item:
   date_end: ""
   date_start: "2020-08-01"
   description: "Funded fellowship to research network-based methods for detecting and understanding coordination on Twitter."
-  organization: The IDeaS Center
+  organization: "The IDeaS Center"
   organization_url: https://www.cmu.edu/ideas-social-cybersecurity/
-  title: Named a Knight Fellow
+  title: "Named a Knight Fellow"
   url: ""
 - certificate_url: ""
   date_end: ""
   date_start: "2020-10-22"
-  description: "In our challange submission, we studied the conversation surounding the "Reopen America" protests."
+  description: "In our challange submission, we studied the conversation surrounding the Reopen America protests."
   organization: SBP-BRiMS Conference
   organization_url: ""
   title: "Runner up: SBP-BRiMS Disinformation Challenge"
