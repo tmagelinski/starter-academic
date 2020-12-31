@@ -70,4 +70,4 @@ highlight_name: false
 
 I am a PhD Student in Societal Computing in SCS at CMU. I'm a Knight Fellow in the IDeaS lab and a member of the CASOS lab. I am broadly interested in the dynamics of social networks. I'm currently working on developing methods from Network Science and ML to find coordinated activity on Twitter.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/magelinski_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/magelinski_resume.pdf" "newtab" >}}résumé{{< /staticref >}}.
