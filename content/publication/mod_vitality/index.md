@@ -28,7 +28,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "In *IEEE Transactions on Network Science and Engineering*"
-publication_short: "In *IEEE TNSE"
+publication_short: "In *IEEE TNSE*"
 
 abstract: "Community-aware centrality is an emerging research area in network science concerned with the importance of nodes in relation to community structure. Measures are a function of a network's structure and a given partition. Previous approaches extend classical centrality measures to account for community structure with little connection to community detection theory. In contrast, we propose cluster-quality vitality measures, i.e., modularity vitality, a community-aware measure which is well-grounded in both centrality and community detection theory. Modularity vitality quantifies positive and negative contributions to community structure, which indicate a node's role as a community bridge or hub. We derive a computationally efficient method of calculating modularity vitality for all nodes in O(M + NC) time, where C is the number of communities. We systematically fragment networks by removing central nodes, and find that modularity vitality consistently outperforms existing community-aware centrality measures. Modularity vitality is over 8 times more effective than the next-best method on a million-node infrastructure network. This result does not generalize to social media communication networks, which exhibit extreme robustness to all community-aware centrality attacks. This robustness suggests that user-based interventions to mitigate misinformation diffusion will be ineffective. Finally, we demonstrate that modularity vitality provides a new approach to community-deception."
 
