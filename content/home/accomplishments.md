@@ -37,7 +37,7 @@ item:
   description: "In our challenge submission, we studied the conversation surrounding the Reopen America protests."
   organization: SBP-BRiMS Conference
   organization_url: ""
-  title: "Runner up: SBP-BRiMS Disinformation Challenge"
+  title: "Runner-Up: SBP-BRiMS Disinformation Challenge"
   url: ""
 - certificate_url: ""
   date_end: ""
@@ -45,7 +45,7 @@ item:
   description: "Minsk II Agreement between Russia and Ukraine and Polarization of the Ukrainian Parliament."
   organization: "University of Pittsburgh Center for Research Computing"
   organization_url: ""
-  title: "Winning Poster Entry: Advancing Research through Computing 2019 Student Poster Contest"
+  title: "Winning Entry: Advancing Research through Computing 2019 Student Poster Contest"
   url: ""
 - certificate_url: ""
   date_end: "2020-08-01"
