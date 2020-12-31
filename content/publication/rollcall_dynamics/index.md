@@ -58,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Phase space representation of Convocation 8's roll call dynamics.'
+  caption: 'Phase space representation of roll call dynamics in Convocation 8.'
   focal_point: ""
   preview_only: false
 
