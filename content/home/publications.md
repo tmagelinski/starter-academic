@@ -36,3 +36,5 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
+
+[See all](./publication/)
