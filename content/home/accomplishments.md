@@ -34,7 +34,7 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2020-10-22"
-  description: "In our challange submission, we studied the conversation surrounding the Reopen America protests."
+  description: "In our challenge submission, we studied the conversation surrounding the Reopen America protests."
   organization: SBP-BRiMS Conference
   organization_url: ""
   title: "Runner up: SBP-BRiMS Disinformation Challenge"
