@@ -42,9 +42,9 @@ tags:
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Full Paper
-#  url: https://link.springer.com/article/10.1007/s41109-019-0136-1
+links:
+- name: Full Paper
+  url: https://ieeexplore.ieee.org/document/9314244
 
 url_pdf: ''
 url_code: ''
